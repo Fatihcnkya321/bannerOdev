@@ -1,0 +1,60 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+.conteiner{
+    width: 924px;
+    height: 378px;
+    background-color:  #E6F0FF;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 150px;
+}
+.enKucukYazi{
+    
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    font-weight: 600;
+    line-height: 30px;
+    margin: 68px 413px 0px 68px;
+    text-align: left;
+    color: black;
+
+
+}
+.buyukYazi{
+    
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 40px;
+    font-weight: 700;
+    line-height: 48px;
+    text-align: left;
+    /* padding-left: 20px; */
+    /* margin-inline: auto; */
+    display: flex;
+    align-items: center;
+}
+.btn{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 24px;
+    color: #fff;
+    width: 214px;
+    height: 64px;
+     gap: 16px;
+     border-radius: 32px;
+     background-color: #0D6EFD;   
+     margin-top: 24px;
+}
+.foto{
+    width: 269px;
+    height: 293px;
+    top: 43px;
+    left: 579px;
+    float: right;
+    align-items: center;
+    display: flex; 
+}
+.yaziVeBtn{
+    margin: 68px 68px 92px 64px;
+}
